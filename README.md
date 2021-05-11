@@ -1,10 +1,10 @@
-# Frontend Mentor - 3-column preview card component solution
+# 3-column preview card component
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). 
 
 ## Table of contents
 
-- [Frontend Mentor - 3-column preview card component solution](#frontend-mentor---3-column-preview-card-component-solution)
+- [3-column preview card component](#3-column-preview-card-component)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
@@ -25,11 +25,12 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/summermmg/3-column-preview-card-component)
-- Live Site URL: [Demo](https://your-live-site-url.com)
+- Live Site URL: [Demo](https://summermmg.github.io/3-column-preview-card-component/)
 
 
 ### Screenshot
-
+<div align="center"><img src="./images/screenshot/Screenshot_phone.png" /></div>
+<div align="center"><img src="./images/screenshot/Screenshot_desktop.png" /></div>
 
 ### Built with
 
